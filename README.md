@@ -26,10 +26,6 @@ Arquitetura moderna utilizando microservices com Spring Cloud, integração cont
 - Versionamento com **Git**
 - Qualidade de código com **JUnit, Mockito, SonarQube**
 
-## 📫 Contato
-- [LinkedIn](#)
-- [Email](#)
-
 ---
 
-"Transformando problemas em soluções eficientes através da tecnologia Java." 💻✨
+"Transformando problemas em soluções eficientes através da tecnologia." 
