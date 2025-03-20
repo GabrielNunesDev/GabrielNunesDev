@@ -1,19 +1,35 @@
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+# 🚀 Bem-vindo(a) ao meu GitHub
 
-###
+Desenvolvedor Java focado em soluções escaláveis e eficientes, criando aplicações que combinam performance, segurança e usabilidade.
+
+## 🛠️ Tecnologias Principais
+- **Java** (Spring Boot, Jakarta EE)
+- **MongoDB / SQL** (PostgreSQL, MySQL)
+- **RESTful APIs**
+- **Vue.js / Angular**
+- **Docker & Kubernetes**
+- **CI/CD (Jenkins, GitHub Actions)**
+
+## 📂 Projetos em destaque
+
+### 📌 Controle de Estoque & Orçamento
+Sistema completo de gerenciamento, com funcionalidades de cadastro (CRUD) de clientes, colaboradores, materiais e orçamento.
+- Backend em **Java com Spring Boot**
+- Banco de dados **MongoDB**
+- Frontend responsivo com **Vue.js**
+
+### 📌 Microservices com Java
+Arquitetura moderna utilizando microservices com Spring Cloud, integração contínua e deployment automatizado com Kubernetes.
+
+## 🎯 Metodologias & Ferramentas
+- Metodologias ágeis (**Scrum, Kanban**)
+- Versionamento com **Git**
+- Qualidade de código com **JUnit, Mockito, SonarQube**
+
+## 📫 Contato
+- [LinkedIn](#)
+- [Email](#)
+
+---
+
+"Transformando problemas em soluções eficientes através da tecnologia Java." 💻✨
